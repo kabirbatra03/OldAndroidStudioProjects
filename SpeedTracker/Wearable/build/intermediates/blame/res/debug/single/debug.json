@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/Users/kabirbatra/AndroidStudioProjects/SpeedTracker/Wearable/build/intermediates/res/merged/debug/drawable-xhdpi_ic_confirmation.png.flat",
+        "source": "/Users/kabirbatra/AndroidStudioProjects/SpeedTracker/Wearable/src/main/res/drawable-xhdpi/ic_confirmation.png"
+    },
+    {
+        "merged": "/Users/kabirbatra/AndroidStudioProjects/SpeedTracker/Wearable/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/kabirbatra/AndroidStudioProjects/SpeedTracker/Wearable/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/kabirbatra/AndroidStudioProjects/SpeedTracker/Wearable/build/intermediates/res/merged/debug/layout_speed_picker_item_layout.xml.flat",
+        "source": "/Users/kabirbatra/AndroidStudioProjects/SpeedTracker/Wearable/src/main/res/layout/speed_picker_item_layout.xml"
+    },
+    {
+        "merged": "/Users/kabirbatra/AndroidStudioProjects/SpeedTracker/Wearable/build/intermediates/res/merged/debug/drawable_settings.xml.flat",
+        "source": "/Users/kabirbatra/AndroidStudioProjects/SpeedTracker/Wearable/src/main/res/drawable/settings.xml"
+    },
+    {
+        "merged": "/Users/kabirbatra/AndroidStudioProjects/SpeedTracker/Wearable/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_settings_black_24dp.png.flat",
+        "source": "/Users/kabirbatra/AndroidStudioProjects/SpeedTracker/Wearable/src/main/res/drawable-xxhdpi/ic_settings_black_24dp.png"
+    },
+    {
+        "merged": "/Users/kabirbatra/AndroidStudioProjects/SpeedTracker/Wearable/build/intermediates/res/merged/debug/layout_main_activity.xml.flat",
+        "source": "/Users/kabirbatra/AndroidStudioProjects/SpeedTracker/Wearable/src/main/res/layout/main_activity.xml"
+    },
+    {
+        "merged": "/Users/kabirbatra/AndroidStudioProjects/SpeedTracker/Wearable/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/kabirbatra/AndroidStudioProjects/SpeedTracker/Wearable/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/kabirbatra/AndroidStudioProjects/SpeedTracker/Wearable/build/intermediates/res/merged/debug/drawable-mdpi_ic_boot_cancel.png.flat",
+        "source": "/Users/kabirbatra/AndroidStudioProjects/SpeedTracker/Wearable/src/main/res/drawable-mdpi/ic_boot_cancel.png"
+    },
+    {
+        "merged": "/Users/kabirbatra/AndroidStudioProjects/SpeedTracker/Wearable/build/intermediates/res/merged/debug/drawable-nodpi_dot.png.flat",
+        "source": "/Users/kabirbatra/AndroidStudioProjects/SpeedTracker/Wearable/src/main/res/drawable-nodpi/dot.png"
+    },
+    {
+        "merged": "/Users/kabirbatra/AndroidStudioProjects/SpeedTracker/Wearable/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/kabirbatra/AndroidStudioProjects/SpeedTracker/Wearable/src/main/res/drawable-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/kabirbatra/AndroidStudioProjects/SpeedTracker/Wearable/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_settings_white_24dp.png.flat",
+        "source": "/Users/kabirbatra/AndroidStudioProjects/SpeedTracker/Wearable/src/main/res/drawable-xxhdpi/ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "/Users/kabirbatra/AndroidStudioProjects/SpeedTracker/Wearable/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_settings_googblue_24dp.png.flat",
+        "source": "/Users/kabirbatra/AndroidStudioProjects/SpeedTracker/Wearable/src/main/res/drawable-xxhdpi/ic_settings_googblue_24dp.png"
+    },
+    {
+        "merged": "/Users/kabirbatra/AndroidStudioProjects/SpeedTracker/Wearable/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/kabirbatra/AndroidStudioProjects/SpeedTracker/Wearable/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/kabirbatra/AndroidStudioProjects/SpeedTracker/Wearable/build/intermediates/res/merged/debug/drawable-xhdpi_ic_confirmation_80.png.flat",
+        "source": "/Users/kabirbatra/AndroidStudioProjects/SpeedTracker/Wearable/src/main/res/drawable-xhdpi/ic_confirmation_80.png"
+    },
+    {
+        "merged": "/Users/kabirbatra/AndroidStudioProjects/SpeedTracker/Wearable/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_gps_saving_grey600_96dp.png.flat",
+        "source": "/Users/kabirbatra/AndroidStudioProjects/SpeedTracker/Wearable/src/main/res/drawable-xxhdpi/ic_gps_saving_grey600_96dp.png"
+    },
+    {
+        "merged": "/Users/kabirbatra/AndroidStudioProjects/SpeedTracker/Wearable/build/intermediates/res/merged/debug/drawable-xhdpi_ic_cancel_80.png.flat",
+        "source": "/Users/kabirbatra/AndroidStudioProjects/SpeedTracker/Wearable/src/main/res/drawable-xhdpi/ic_cancel_80.png"
+    },
+    {
+        "merged": "/Users/kabirbatra/AndroidStudioProjects/SpeedTracker/Wearable/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_gps_not_saving_grey600_96dp.png.flat",
+        "source": "/Users/kabirbatra/AndroidStudioProjects/SpeedTracker/Wearable/src/main/res/drawable-xxhdpi/ic_gps_not_saving_grey600_96dp.png"
+    },
+    {
+        "merged": "/Users/kabirbatra/AndroidStudioProjects/SpeedTracker/Wearable/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_settings_grey600_24dp.png.flat",
+        "source": "/Users/kabirbatra/AndroidStudioProjects/SpeedTracker/Wearable/src/main/res/drawable-xxhdpi/ic_settings_grey600_24dp.png"
+    },
+    {
+        "merged": "/Users/kabirbatra/AndroidStudioProjects/SpeedTracker/Wearable/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/kabirbatra/AndroidStudioProjects/SpeedTracker/Wearable/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/kabirbatra/AndroidStudioProjects/SpeedTracker/Wearable/build/intermediates/res/merged/debug/drawable_wl_circle.xml.flat",
+        "source": "/Users/kabirbatra/AndroidStudioProjects/SpeedTracker/Wearable/src/main/res/drawable/wl_circle.xml"
+    },
+    {
+        "merged": "/Users/kabirbatra/AndroidStudioProjects/SpeedTracker/Wearable/build/intermediates/res/merged/debug/layout_speed_picker_activity.xml.flat",
+        "source": "/Users/kabirbatra/AndroidStudioProjects/SpeedTracker/Wearable/src/main/res/layout/speed_picker_activity.xml"
+    }
+]
